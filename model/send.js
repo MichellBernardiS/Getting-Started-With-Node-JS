@@ -1,7 +1,5 @@
 // const mongo = require('mongoose');
 
-// const dbInet = 'mongodb://mongonode:mongonode@learnode.vx5jo.mongodb.net/Learnode';
-
 // mongo.connect(dbInet, {useMongoClient : true}, (err) => {
 //     console.log('Mongodb connected', err);
 // });
